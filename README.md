@@ -1,8 +1,10 @@
-# Starter
+# hiu-nuxt Template
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js)  clean hiu-nuxt starter project template.
 
 <!-- Live demo: https://starter.nuxtjs.org -->
+
+![hiu-nuxt](https://raw.githubusercontent.com/frizadiga/hiu-nuxt-template/master/.media/ss.png)
 
 ## Installation
 
