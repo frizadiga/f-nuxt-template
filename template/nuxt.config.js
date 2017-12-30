@@ -1,22 +1,27 @@
 module.exports = {
   // ** Config
-  srcDir: 'app/',
+  srcDir: 'src/',
+
+  css: [
+  // ** Transitions Routes
+    'assets/main.css',
+  ],
   
   // ** Headers of the page
   head: {
-    title: '{{ name }}',
+    title: 'hiu-nuxt',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '{{ description }}' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/hiu-favicon.png' }
     ]
   },
   
   // ** Customize the progress bar color
-  loading: { color: '#3B8070' },
+  loading: { color: '#35495e' },
   
   // ** Build configuration
   build: {
