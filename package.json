@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "hiu-nuxt",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "a nuxt app",
+  "author": "author",
   "private": true,
   "config": {
     "nuxt": {
