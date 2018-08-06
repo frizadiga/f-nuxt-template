@@ -1,6 +1,6 @@
 # f-nuxt Template
 
-A [Nuxt.js](https://github.com/nuxt/nuxt.js)  clean hiu-nuxt starter project template.
+A [Nuxt.js](https://github.com/nuxt/nuxt.js) my opinioted nuxt starter project template.
 
 <!-- Live demo: https://starter.nuxtjs.org -->
 
@@ -11,7 +11,7 @@ A [Nuxt.js](https://github.com/nuxt/nuxt.js)  clean hiu-nuxt starter project tem
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init frizadiga/hiu-nuxt-template my-project  
+$ vue init frizadiga/f-nuxt-template my-project  
 $ cd my-project                     
 # install dependencies
 $ npm install # Or yarn install
