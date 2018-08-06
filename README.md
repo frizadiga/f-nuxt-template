@@ -1,4 +1,4 @@
-# hiu-nuxt Template
+# f-nuxt Template
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js)  clean hiu-nuxt starter project template.
 
